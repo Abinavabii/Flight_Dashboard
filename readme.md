@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="./flight-banner.png" alt="Flight Dashboard Banner" width="100%"/>
+  <img src="./flight_banner.png" alt="Flight Dashboard Banner" width="100%"/>
 </p>
 
 ---
