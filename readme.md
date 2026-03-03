@@ -3,6 +3,11 @@
 
 ---
 
+<p align="center">
+  <img src="./flight-banner.png" alt="Flight Dashboard Banner" width="100%"/>
+</p>
+
+---
 ## 📌 Project Overview 
 
 This project analyzes 327,000+ U.S. flight records to evaluate airline operational performance, delay patterns, and airport efficiency using Power BI.
